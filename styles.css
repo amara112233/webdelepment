@@ -1,0 +1,152 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;align-items: center;
+    padding: 20px;
+}
+.navbar ul{
+    display: flex;
+
+}
+.navbar li{
+    margin-right: 40px;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+}
+#a{
+    text-align: center;
+   background-color: darksalmon; 
+   height: 100vh;
+}
+.a{
+background-color: cornflowerblue;
+height: 100vh;
+
+}
+.a h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+
+}
+.b{
+    background-color: palegreen;
+    width: 40%;
+    height: 80vh;
+    margin: auto;
+    border-radius:20px;
+    padding: 10px;
+    margin-top: 30px;
+}
+.b label{
+    font-weight: bold;
+    color: white;
+    font-family: sans-serif;
+    display: block;
+}
+.b input{
+    padding: 10px 30px;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+
+}
+.b div{
+    margin-left: 150px;
+    margin-bottom: 15px;
+    width: 40%;
+
+}
+.c{
+    text-align: center;
+}
+#d{
+    text-align: center;
+    background-color: pink ;
+    height: 100vh;
+    color: white;
+}
+img{
+    height: 50px;
+}
+.abc{
+    display: flex;
+}
+.def{
+    padding: 10px 20px;
+    border-radius:50px ;
+}
+.google-map h1{
+text-align: center;
+color: white;
+background-color: black;
+margin: 0px;
+letter-spacing: 20px;
+padding: 10px;
+}
+.google-map iframe{
+    width: 100%;
+
+}
+.g{
+    margin-left: 500px;
+}
+#h{
+    text-align: center;
+    margin: auto;
+    display: flex;
+    background-color: aqua;
+    height: 30vh;
+    color: chocolate;
+    padding: 50px;
+
+}
+#h h2{
+font-size: 20px;
+margin-left: 20px;
+margin-top: 100px;
+text-align: center;
+}
+#h img{
+    height: 200px;
+    width: 300px;
+    margin-left: 100px;
+    margin-right: 0px;
+    margin-bottom: 30px;
+
+}
+.s{
+    margin: auto;
+    display: flex;
+    background-color: red;
+    height: 30vh;
+    color: white;
+    padding: 50px;
+}
+.s p{
+    font-size: 20px;
+    margin-left: 150px;
+    text-align: center;
+    margin-top: 90px;   
+}
+.s img{
+    height: 150px;
+}
+.w,.x,.y{
+    margin-left: 150px;
+    margin-right: 20px;
+    height: 150px;
+    width: 100px;
+}
+.z{
+    margin: auto;
+    display: flex;
+}
+
